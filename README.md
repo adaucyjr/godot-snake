@@ -1,2 +1,2 @@
 # godot-snake
-A Snake game developed in Godot Engine
+A snake game developed in Godot Engine
